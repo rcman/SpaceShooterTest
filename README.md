@@ -7,4 +7,6 @@ I use scons to compile this on Linux. So you need to run sudo apt install scons 
 
 You should already have SDL2 installed.
 
+Left and right arrow keys to move and space bar to shoot.
+
 Thanks
