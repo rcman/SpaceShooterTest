@@ -9,4 +9,17 @@ You should already have SDL2 installed.
 
 Left and right arrow keys to move and space bar to shoot.
 
+You can change the values in the code to your liking
+
+// Define bullet dimensions
+const int BULLET_WIDTH = 9;
+const int BULLET_HEIGHT = 21;
+const int MAX_BULLETS = 15;
+
+tate->bulletSpeed = 5;
+state->fireRate = 50;  // Time between shots in milliseconds
+state->fireCooldown = 0;
+
+
+
 Thanks
